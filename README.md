@@ -6,13 +6,13 @@ This project template was built with [Create React App](https://github.com/faceb
 
 <code> git clone https://github.com/sci2lab/minesweeper-react-redux.git </code>
 
-### cd minesweeper-react-redux
+# cd minesweeper-react-redux
 
-### npm install
+# npm install
 
-### npm start
+# npm start
 
-### Minesweeper Overview
+# Minesweeper Overview
 
 In Minesweeper, the player is initially presented with a grid of
 undifferentiated squares. Either some randomly-selected squares are designated to contain mines. Typically, the
