@@ -4,7 +4,7 @@ This project template was built with [Create React App](https://github.com/faceb
 
 # How to run Minesweeper project:
 
-### git clone https://github.com/sci2lab/minesweeper-react-redux.git
+<code> git clone https://github.com/sci2lab/minesweeper-react-redux.git </code>
 
 ### cd minesweeper-react-redux
 
