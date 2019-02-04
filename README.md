@@ -1,3 +1,17 @@
+# Minesweeper Project
+
+This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
+
+# How to run Minesweeper project:
+
+### git clone https://github.com/sci2lab/minesweeper-react-redux.git
+
+### cd minesweeper-react-redux
+
+### npm install
+
+### npm start
+
 ### Minesweeper Overview
 
 In Minesweeper, the player is initially presented with a grid of
