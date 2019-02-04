@@ -6,11 +6,11 @@ This project template was built with [Create React App](https://github.com/faceb
 
 <code> git clone https://github.com/sci2lab/minesweeper-react-redux.git </code>
 
-# cd minesweeper-react-redux
+<code>cd minesweeper-react-redux</code>
 
-# npm install
+<code>npm install</code>
 
-# npm start
+<code>npm start</code>
 
 # Minesweeper Overview
 
